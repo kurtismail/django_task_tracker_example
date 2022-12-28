@@ -38,11 +38,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
-    # myapps
+    # myapp
     'todo',
-    # thirtpart app
-    'rest_framework',
+
+    # third party apps
+    'rest_frame_work',
 
 ]
 
